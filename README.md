@@ -1,4 +1,4 @@
-# markdown 😎
+# markdown 
 
 <!-- Encabezado -->
 # title en h1
