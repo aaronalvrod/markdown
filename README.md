@@ -49,3 +49,12 @@ tipos de ~~letras~~
 <!-- Acceso a paginas web -->
 
 [periodico el pais](https://elpais.es)
+
+<!-- Imagenes -->
+
+![visual studio logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png "Visual Studio Logo")
+
+<!-- Citas -->
+
+> Esta es una cita
+
