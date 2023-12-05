@@ -58,6 +58,3 @@ tipos de ~~letras~~
 
 > Esta es una cita
 
-*"[X]" 1
-*"[·]" 2
-
