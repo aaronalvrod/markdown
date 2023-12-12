@@ -58,5 +58,5 @@ tipos de ~~letras~~
 
 > Esta es una cita
 >
-> [![Ve el siguiente video](https://www.youtube.com/watch?v=QbPN_Xs-efY)]
+> (![Ve el siguiente video](https://www.youtube.com/watch?v=QbPN_Xs-efY))
 
