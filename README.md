@@ -57,6 +57,3 @@ tipos de ~~letras~~
 <!-- Citas -->
 
 > Esta es una cita
->
-> (![Ve el siguiente video](https://www.youtube.com/watch?v=QbPN_Xs-efY))
-
